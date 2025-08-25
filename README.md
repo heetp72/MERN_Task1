@@ -42,9 +42,3 @@ React.js Developer
 
 
 
-
-
-
-
-
-Ask ChatGPT
